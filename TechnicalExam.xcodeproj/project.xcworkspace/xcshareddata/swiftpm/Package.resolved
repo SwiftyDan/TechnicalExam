@@ -1,0 +1,42 @@
+{
+  "originHash" : "e0682258b2e393d1801424552a793c09d7bb513358e464510884050f74a448cc",
+  "pins" : [
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "e0c7eebc5a4465a3c4680764f26b7a61f567cdaf"
+      }
+    },
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm.git",
+      "state" : {
+        "revision" : "8c6edf4f0fa84fe9c058600a4295eb0c01661c69",
+        "version" : "4.5.1"
+      }
+    },
+    {
+      "identity" : "skeletonview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Juanpe/SkeletonView.git",
+      "state" : {
+        "revision" : "2f5274827d310e32c09325dd3e0007120940988e",
+        "version" : "1.31.0"
+      }
+    },
+    {
+      "identity" : "supereasylayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/doil6317/SuperEasyLayout.git",
+      "state" : {
+        "revision" : "0d2a9111aa62e6f2b2a3bb70e526e5cf00e9f8f6",
+        "version" : "0.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
